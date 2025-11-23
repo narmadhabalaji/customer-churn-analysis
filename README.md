@@ -1,5 +1,9 @@
 # 🛒 E-Commerce Customer Churn Analysis 
 
+<!-- Badges -->
+[![Last Commit](https://img.shields.io/github/last-commit/narmadhabalaji/E-Commerce-Customer-Churn-Analysis?style=for-the-badge)](https://github.com/narmadhabalaji/E-Commerce-Customer-Churn-Analysis)  
+[![License: MIT](https://img.shields.io/badge/License-MIT-Yellow?style=for-the-badge)](LICENSE)
+
 ## Table of Contents
 - Project Overview
 - Problem Statement
